@@ -1,4 +1,4 @@
-# VR-Game-Jam-Template
+# Galatic Conflict
  Starter Project using Unity XR Toolkit created for VR Jam 2023
 
 # Learn More About This Project
